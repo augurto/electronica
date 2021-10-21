@@ -67,8 +67,7 @@ ul {
   opacity: 0.15;
 }
 .div_label{
-  display: flex;
-  flex-direction: column;
+  display: table;
 }
 .label {
   position: absolute;
@@ -85,8 +84,9 @@ ul {
   height: 100%;
   text-align: center;
   align-self: center;
-  /* display: table-cell; */
-  /* vertical-align: middle; */
+  display: table-cell;
+  vertical-align: middle;
+  
 }
 @media (max-width: 850px) {
   .label {

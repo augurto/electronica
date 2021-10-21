@@ -8,6 +8,7 @@ body{
 }
 nav{
     display: flex;
+    text-align: center;
     
 }
 .div_nav{

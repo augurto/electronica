@@ -67,6 +67,10 @@ ul {
   text-transform: uppercase;
   opacity: 0.15;
 }
+.tabInner{
+  display: flex;
+  justify-content: center;
+}
 .label {
   position: absolute;
   top: 50%;

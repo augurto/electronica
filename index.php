@@ -9,7 +9,7 @@
     <title>Ventas</title>
 </head>
 <body>
-    <p>prueba testa</p>
+    
     
     <?php include('./pages/header.php');?>
     <?php include('./pages/nav.php');?>

@@ -8,13 +8,13 @@
     <link rel="stylesheet" href="style.css">
     <title>Document</title>
 </head>
-<body>
+<body style="background: #00e676;">
     
 <?php include '../includes/nav.php'; ?>  
 
 <div class="page">
   
-  <section class="section activeSection color3" data-letter="p">
+  <section class="section activeSection color4" data-letter="p">
     <article class="sectionInner">
       <h1 class="sectionTitle">Services</h1>
       <p>Use Left and Right Arrow Keys for Navigate or Change Tabs. And You Can Click On Tabs to Change!</p>

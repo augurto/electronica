@@ -18,7 +18,7 @@
       <a href="" class="tabInner">
         <div class="thumbnail color3" data-letter="p"></div>
         <!-- <p class="label">Productos</p> -->
-        <a href="../pages/vender.php">Productos</a>
+        <a href="../pages/vender.php" class="label">Productos</a>
       </a>
     </li>
     <li class="tabItem">

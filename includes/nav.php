@@ -26,7 +26,9 @@
       <a href="" class="tabInner">
         <div class="thumbnail color4" data-letter="v"></div>
         <!-- <p class="label">Ventas</p> -->
+        <div class="div_label">
         <a href="../pages/ventas.php" class="label">Ventas</a>
+        </div>
       </a>
     </li>
     <li class="tabItem">

@@ -1,4 +1,4 @@
-<nav>
+<!-- <nav>
         <div class="div_nav">
             <a href="">Vender</a>
             <a href="">Productos</a>
@@ -14,4 +14,4 @@
 				<li><a href="#"><span class="icon-earth"></span>Servicios</a></li>
 				<li><a href="#"><span class="icon-mail"></span>Contactos</a></li>
 			</ul>
-</nav>
+</nav> -->

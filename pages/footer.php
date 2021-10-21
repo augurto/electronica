@@ -3,3 +3,4 @@
         <span>Geef.tech</span>
     </div>
 </footer>
+<script src="./menu/nav.js"></script>

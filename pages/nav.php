@@ -1,65 +1,83 @@
-<nav>
-<a id="resp-menu" class="responsive-menu" href="#"><i class="fa fa-reorder"></i> Menu</a>    
-   <ul class="menu">
-   <li><a class="homer" href="#"><i class="fa fa-home"></i> HOME</a>
-   <ul class="sub-menu">
-   <li><a href="#">Sub-Menu 1</a></li>
-   <li><a href="#">Sub-Menu 2</a></li>
-   <li><a href="#">Sub-Menu 3</a></li>
-   <li><a href="#">Sub-Menu 4</a></li>
-   <li><a href="#">Sub-Menu 5</a></li>   
-   </ul>
-   </li>
-  <li><a  href="#"><i class="fa fa-user"></i> ABOUT</a></li>
-  <li><a  href="#"><i class="fa fa-camera"></i> PORTFOLIO</a>
-  <ul class="sub-menu">
-   <li><a href="#">Sub-Menu 1</a></li>
-   <li><a href="#">Sub-Menu 2</a>
-    <ul>
-    <li><a href="#">Sub Sub-Menu 1</a></li>
-   	<li><a href="#">Sub Sub-Menu 2</a></li>
-	<li><a href="#">Sub Sub-Menu 3</a></li>
-   	<li><a href="#">Sub Sub-Menu 4</a></li>
-	<li><a href="#">Sub Sub-Menu 5</a></li>	
-    </ul>
-   </li>
-     <li><a href="#">Sub-Menu 3</a>
-    <ul>
-    <li><a href="#">Sub Sub-Menu 1</a></li>
-   	<li><a href="#">Sub Sub-Menu 2</a></li>
-	<li><a href="#">Sub Sub-Menu 3</a></li>
-   	<li><a href="#">Sub Sub-Menu 4</a></li>
-	<li><a href="#">Sub Sub-Menu 5</a></li>	
-    </ul>
-   </li>
-   </ul>
-  </li>
-  <li><a  href="#"><i class="fa fa-bullhorn"></i> BLOG</a></li>
-    <li><a  href="#"><i class="fa fa-tags"></i> CATEGORIES</a>
-  <ul class="sub-menu">
-   <li><a href="#">Sub-Menu 1</a></li>
-   <li><a href="#">Sub-Menu 2</a>
-    <ul>
-    <li><a href="#">Sub Sub-Menu 1</a></li>
-   	<li><a href="#">Sub Sub-Menu 2</a></li>
-	<li><a href="#">Sub Sub-Menu 3</a></li>
-   	<li><a href="#">Sub Sub-Menu 4</a></li>
-	<li><a href="#">Sub Sub-Menu 5</a></li>	
-    </ul>
-   </li>
-     <li><a href="#">Sub-Menu 3</a>
-    <ul>
-    <li><a href="#">Sub Sub-Menu 1</a></li>
-   	<li><a href="#">Sub Sub-Menu 2</a></li>
-	<li><a href="#">Sub Sub-Menu 3</a></li>
-   	<li><a href="#">Sub Sub-Menu 4</a></li>
-	<li><a href="#">Sub Sub-Menu 5</a></li>	
-       </ul>
-   </li>
-   </ul>
-  </li>
-  <li><a  href="#"><i class="fa fa-envelope"></i> CONTACT</a></li>
-  <li><a  href="#"><i class="fa fa-sitemap"></i> SITEMAP</a></li>
-  <li><a  href="#"><i class="fa fa-exclamation-triangle"></i> DISCLAIMER</a></li>
+
+<nav class="nav activeTab">
+  <ul class="tabList">
+    <li class="tabItem">
+      <a href="" class="tabInner">
+        <div class="thumbnail color1" data-letter="h"></div>
+        <p class="label">Home</p>
+      </a>
+    </li>
+    <li class="tabItem">
+      <a href="" class="tabInner">
+        <div class="thumbnail color2" data-letter="a"></div>
+        <p class="label">About</p>
+      </a>
+    </li>
+    <li class="tabItem">
+      <a href="" class="tabInner">
+        <div class="thumbnail color3" data-letter="s"></div>
+        <p class="label">Services</p>
+      </a>
+    </li>
+    <li class="tabItem">
+      <a href="" class="tabInner">
+        <div class="thumbnail color4" data-letter="p"></div>
+        <p class="label">Pricing</p>
+      </a>
+    </li>
+    <li class="tabItem">
+      <a href="" class="tabInner">
+        <div class="thumbnail color5" data-letter="c"></div>
+        <p class="label">Contact</p>
+      </a>
+    </li>
+    <li class="tabItem">
+      <a href="" class="tabInner">
+        <div class="thumbnail color6" data-letter="b"></div>
+        <p class="label">Blog</p>
+      </a>
+    </li>
   </ul>
-  </nav>
+  <div class="menu menu-close">
+    <div class="menu-icon"></div>
+  </div>
+</nav>
+
+<div class="page">
+  <section class="section activeSection color1" data-letter="h">
+    <article class="sectionInner">
+      <h1 class="sectionTitle">Home</h1>
+      <p>Use Left and Right Arrow Keys for Navigate or Change Tabs. And You Can Click On Tabs to Change!</p>
+    </article>
+  </section>
+  <section class="section color2" data-letter="a">
+    <article class="sectionInner">
+      <h1 class="sectionTitle">About Us</h1>
+      <p>Use Left and Right Arrow Keys for Navigate or Change Tabs. And You Can Click On Tabs to Change!</p>
+    </article>
+  </section>
+  <section class="section color3" data-letter="s">
+    <article class="sectionInner">
+      <h1 class="sectionTitle">Services</h1>
+      <p>Use Left and Right Arrow Keys for Navigate or Change Tabs. And You Can Click On Tabs to Change!</p>
+    </article>
+  </section>
+  <section class="section color4" data-letter="p">
+    <article class="sectionInner">
+      <h1 class="sectionTitle">Pricing</h1>
+     <p>Use Left and Right Arrow Keys for Navigate or Change Tabs. And You Can Click On Tabs to Change!</p>
+    </article>
+  </section>
+  <section class="section color5" data-letter="c">
+    <article class="sectionInner">
+      <h1 class="sectionTitle">Contact</h1>
+      <p>Use Left and Right Arrow Keys for Navigate or Change Tabs. And You Can Click On Tabs to Change!</p>
+    </article>
+  </section>
+  <section class="section color6" data-letter="b">
+    <article class="sectionInner">
+      <h1 class="sectionTitle">Blog</h1>
+      <p>Use Left and Right Arrow Keys for Navigate or Change Tabs. And You Can Click On Tabs to Change!</p>
+    </article>
+  </section>
+</div>

@@ -34,7 +34,7 @@
     <li class="tabItem">
       <a href="" class="tabInner">
         <div class="thumbnail color6" data-letter="c"></div>
-        <p class="label">Configuracion</p>
+        <p class="label">Setting</p>
       </a>
     </li>
   </ul>

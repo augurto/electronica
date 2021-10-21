@@ -25,5 +25,6 @@ footer{
 .footer_1{
     border: 1px solid rgba(223, 46, 46, 0.932);
     color:var(--blanco);
+    text-align: center;
 
 }

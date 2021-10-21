@@ -37,12 +37,11 @@
       </a>
     </li>
     <li class="tabItem">
-    <a href="../pages/settings.php" class="label">Settings
       <a href="" class="tabInner">
-          <div class="thumbnail color6" data-letter="s"></div>
-          <!-- <p class="label">Setting</p> -->
+        <div class="thumbnail color6" data-letter="s"></div>
+        <!-- <p class="label">Setting</p> -->
+        <a href="../pages/settings.php" class="label">Settings</a>
       </a>
-    </a>
     </li>
   </ul>
   <div class="menu menu-close">

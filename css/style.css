@@ -81,8 +81,11 @@
     }
   }
   @media (max-width: 720px) {
+    .page{
+        margin-top: -12px;
+    }
     .label {
-      display: none;
+      display: 10px;
     }
     .thumbnail {
       height: 90px;

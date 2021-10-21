@@ -9,16 +9,7 @@
 </head>
 <body>
     <p>prueba testa</p>
-    <header></header>
-    <nav>
-        <div>
-            <a href="">Vender</a>
-            <a href="">Productos</a>
-            <a href="">Reportes</a>
-            <a href="">Configuracion</a>
-        </div>
-    </nav>
-    <main></main>
+    
     <?php include('./pages/header.php');?>
     <?php include('./pages/nav.php');?>
     <?php include('./pages/main.php');?>

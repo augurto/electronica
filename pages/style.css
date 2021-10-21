@@ -50,7 +50,7 @@ ul {
   opacity: 0.75;
 }
 .thumbnail {
-  display: block;
+  display: table;
   height: 100px;
   background: #dc143c;
   transition: all 0.45s cubic-bezier(0.23, 1, 0.32, 1);

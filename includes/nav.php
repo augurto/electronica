@@ -12,6 +12,7 @@
         <div class="thumbnail color2" data-letter="v"></div>
         <p class="label">Vender</p>
       </a>
+      <a href="../pages/ventas.php"></a>
     </li>
     <li class="tabItem">
       <a href="" class="tabInner">

@@ -3,38 +3,38 @@
   <ul class="tabList">
     <li class="tabItem">
       <a href="" class="tabInner">
-        <div class="thumbnail color1" data-letter="h"></div>
-        <p class="label">Home</p>
+        <div class="thumbnail color1" data-letter="i"></div>
+        <p class="label">Inicio</p>
       </a>
     </li>
     <li class="tabItem">
       <a href="" class="tabInner">
-        <div class="thumbnail color2" data-letter="a"></div>
-        <p class="label">About</p>
+        <div class="thumbnail color2" data-letter="v"></div>
+        <p class="label">Vender</p>
       </a>
     </li>
     <li class="tabItem">
       <a href="" class="tabInner">
-        <div class="thumbnail color3" data-letter="s"></div>
-        <p class="label">Services</p>
+        <div class="thumbnail color3" data-letter="p"></div>
+        <p class="label">Productos</p>
       </a>
     </li>
     <li class="tabItem">
       <a href="" class="tabInner">
-        <div class="thumbnail color4" data-letter="p"></div>
-        <p class="label">Pricing</p>
+        <div class="thumbnail color4" data-letter="v"></div>
+        <p class="label">Ventas</p>
       </a>
     </li>
     <li class="tabItem">
       <a href="" class="tabInner">
-        <div class="thumbnail color5" data-letter="c"></div>
-        <p class="label">Contact</p>
+        <div class="thumbnail color5" data-letter="r"></div>
+        <p class="label">Reporte</p>
       </a>
     </li>
     <li class="tabItem">
       <a href="" class="tabInner">
-        <div class="thumbnail color6" data-letter="b"></div>
-        <p class="label">Blog</p>
+        <div class="thumbnail color6" data-letter="c"></div>
+        <p class="label">Configuracion</p>
       </a>
     </li>
   </ul>

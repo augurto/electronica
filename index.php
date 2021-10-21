@@ -14,10 +14,6 @@
     <?php include('./pages/main.php');?>
     <?php include('./pages/footer.php');?>
     
-    
-    
-
-
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 <script  src="function.js"></script>
 </body>

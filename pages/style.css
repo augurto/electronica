@@ -77,7 +77,7 @@ ul {
   color: #1a1a1a;
   margin: 0;
   border: 1px solid rgb(0, 0, 0);
-  width: 15px;
+  width: 120%;
 }
 @media (max-width: 850px) {
   .label {

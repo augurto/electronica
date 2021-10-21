@@ -14,7 +14,7 @@
 
 <div class="page">
   
-  <section class="section activeSection color4" data-letter="s">
+  <section class="section activeSection color6" data-letter="s">
     <article class="sectionInner">
       <h1 class="sectionTitle">Settings</h1>
       <p>Relleno de setings</p>

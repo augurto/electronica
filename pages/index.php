@@ -8,13 +8,13 @@
     <link rel="stylesheet" href="style.css">
     <title>Inicio</title>
 </head>
-<body style="background: #00e676;">
+<body style="background: #2ab1ce;">
     
 <?php include '../includes/nav.php'; ?>  
 
 <div class="page">
   
-  <section class="section activeSection color3" data-letter="p">
+  <section class="section activeSection color1" data-letter="p">
     <article class="sectionInner">
       <h1 class="sectionTitle">Inicio</h1>
       <p>Ya sabre que poner en el inicio.....</p>

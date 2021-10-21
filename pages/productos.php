@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="style.css">
     <title>Productos</title>
 </head>
-<body style="background: #00e676;">
+<body style="background: #fbb016;">
     
 <?php include '../includes/nav.php'; ?>  
 

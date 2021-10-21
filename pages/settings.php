@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="style.css">
     <title>Settings</title>
 </head>
-<body style="background: #00e676;">
+<body style="background: #ff58d0;">
     
 <?php include '../includes/nav.php'; ?>  
 

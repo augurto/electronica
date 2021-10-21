@@ -33,7 +33,7 @@
       <a href="" class="tabInner">
         <div class="thumbnail color5" data-letter="r"></div>
         <!-- <p class="label">Reporte</p> -->
-        <a href="../pages/reporte.php" class="label">Reporte</a>
+        <a href="../pages/reportes.php" class="label">Reporte</a>
       </a>
     </li>
     <li class="tabItem">

@@ -2,7 +2,7 @@
 <nav class="nav activeTab">
   <ul class="tabList">
     <li class="tabItem">
-      <a href="" class="tabInner">
+      <a href="ventas.php" class="tabInner">
         <div class="thumbnail color1" data-letter="i"></div>
         <p class="label">Inicio</p>
       </a>
@@ -44,12 +44,12 @@
 </nav>
 
 <div class="page">
-  <section class="section activeSection color1" data-letter="i">
+  <!-- <section class="section activeSection color1" data-letter="i">
     <article class="sectionInner">
       <h1 class="sectionTitle">Home</h1>
       <p>Use Left and Right Arrow Keys for Navigate or Change Tabs. And You Can Click On Tabs to Change!</p>
     </article>
-  </section>
+  </section> -->
   <section class="section color2" data-letter="v">
     <article class="sectionInner">
       <h1 class="sectionTitle">About Us</h1>

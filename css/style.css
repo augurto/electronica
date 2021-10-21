@@ -246,7 +246,9 @@ footer{
     text-align: center;
 
 }
-
+.footer_1 span{
+    color: white;
+}
 @media (max-width: 800px) {
     .page{
         margin-top: -12px;

@@ -84,7 +84,10 @@
     .page{
         margin-top: -12px;
     }
-    .label {
+    .label{
+        font-size: 10px;
+    }
+    /* .label {
       display: 10px;
     }
     .thumbnail {
@@ -93,7 +96,7 @@
     .thumbnail:before {
       font-size: 32px;
       opacity: 0.7;
-    }
+    } */
   }
   .menu {
     position: absolute;

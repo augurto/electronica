@@ -38,6 +38,7 @@ ul {
 }
 .tabList {
   display: flex;
+  height: 100px;
 }
 .tabItem {
   flex: 1;

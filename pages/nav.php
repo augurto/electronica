@@ -1,17 +1,65 @@
-<!-- <nav>
-        <div class="div_nav">
-            <a href="">Vender</a>
-            <a href="">Productos</a>
-            <a href="">Reportes</a>
-            <a href="">Configuracion</a>
-        </div>
-</nav>
 <nav>
-			<ul>
-				<li><a href="#"><span class="icon-house"></span>Inicio</a></li>
-				<li><a href="#"><span class="icon-suitcase"></span>Trabajos</a></li>
-				<li><a href="#"><span class="icon-rocket"></span>Proyectos</a></li>
-				<li><a href="#"><span class="icon-earth"></span>Servicios</a></li>
-				<li><a href="#"><span class="icon-mail"></span>Contactos</a></li>
-			</ul>
-</nav> -->
+<a id="resp-menu" class="responsive-menu" href="#"><i class="fa fa-reorder"></i> Menu</a>    
+   <ul class="menu">
+   <li><a class="homer" href="#"><i class="fa fa-home"></i> HOME</a>
+   <ul class="sub-menu">
+   <li><a href="#">Sub-Menu 1</a></li>
+   <li><a href="#">Sub-Menu 2</a></li>
+   <li><a href="#">Sub-Menu 3</a></li>
+   <li><a href="#">Sub-Menu 4</a></li>
+   <li><a href="#">Sub-Menu 5</a></li>   
+   </ul>
+   </li>
+  <li><a  href="#"><i class="fa fa-user"></i> ABOUT</a></li>
+  <li><a  href="#"><i class="fa fa-camera"></i> PORTFOLIO</a>
+  <ul class="sub-menu">
+   <li><a href="#">Sub-Menu 1</a></li>
+   <li><a href="#">Sub-Menu 2</a>
+    <ul>
+    <li><a href="#">Sub Sub-Menu 1</a></li>
+   	<li><a href="#">Sub Sub-Menu 2</a></li>
+	<li><a href="#">Sub Sub-Menu 3</a></li>
+   	<li><a href="#">Sub Sub-Menu 4</a></li>
+	<li><a href="#">Sub Sub-Menu 5</a></li>	
+    </ul>
+   </li>
+     <li><a href="#">Sub-Menu 3</a>
+    <ul>
+    <li><a href="#">Sub Sub-Menu 1</a></li>
+   	<li><a href="#">Sub Sub-Menu 2</a></li>
+	<li><a href="#">Sub Sub-Menu 3</a></li>
+   	<li><a href="#">Sub Sub-Menu 4</a></li>
+	<li><a href="#">Sub Sub-Menu 5</a></li>	
+    </ul>
+   </li>
+   </ul>
+  </li>
+  <li><a  href="#"><i class="fa fa-bullhorn"></i> BLOG</a></li>
+    <li><a  href="#"><i class="fa fa-tags"></i> CATEGORIES</a>
+  <ul class="sub-menu">
+   <li><a href="#">Sub-Menu 1</a></li>
+   <li><a href="#">Sub-Menu 2</a>
+    <ul>
+    <li><a href="#">Sub Sub-Menu 1</a></li>
+   	<li><a href="#">Sub Sub-Menu 2</a></li>
+	<li><a href="#">Sub Sub-Menu 3</a></li>
+   	<li><a href="#">Sub Sub-Menu 4</a></li>
+	<li><a href="#">Sub Sub-Menu 5</a></li>	
+    </ul>
+   </li>
+     <li><a href="#">Sub-Menu 3</a>
+    <ul>
+    <li><a href="#">Sub Sub-Menu 1</a></li>
+   	<li><a href="#">Sub Sub-Menu 2</a></li>
+	<li><a href="#">Sub Sub-Menu 3</a></li>
+   	<li><a href="#">Sub Sub-Menu 4</a></li>
+	<li><a href="#">Sub Sub-Menu 5</a></li>	
+       </ul>
+   </li>
+   </ul>
+  </li>
+  <li><a  href="#"><i class="fa fa-envelope"></i> CONTACT</a></li>
+  <li><a  href="#"><i class="fa fa-sitemap"></i> SITEMAP</a></li>
+  <li><a  href="#"><i class="fa fa-exclamation-triangle"></i> DISCLAIMER</a></li>
+  </ul>
+  </nav>

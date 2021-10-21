@@ -51,7 +51,6 @@ ul {
 }
 .thumbnail {
   display: block;
-  align-self: center; /* borrar si no lo centra */
   height: 100px;
   background: #dc143c;
   transition: all 0.45s cubic-bezier(0.23, 1, 0.32, 1);
@@ -66,10 +65,6 @@ ul {
   font-size: 70px;
   text-transform: uppercase;
   opacity: 0.15;
-}
-.tabInner{
-  display: flex;
-  justify-content: center;
 }
 .label {
   position: absolute;
@@ -86,6 +81,7 @@ ul {
   height: 100%;
   text-align: center;
   align-self: center;
+  vertical-align: middle;
 }
 @media (max-width: 850px) {
   .label {

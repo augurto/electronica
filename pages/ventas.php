@@ -10,15 +10,19 @@
 <body>
     
 <?php include '../includes/nav.php'; ?>  
+
 <div class="page">
- 
-  <section class="section activeSection color2" data-letter="v">
-        <article class="sectionInner">
-            <h1 class="sectionTitle">About Us</h1>
-            <p>Use Left and Right Arrow Keys for Navigate or Change Tabs. And You Can Click On Tabs to Change!</p>
-        </article>
+  
+  <section class="section activeSection color3" data-letter="p">
+    <article class="sectionInner">
+      <h1 class="sectionTitle">Services</h1>
+      <p>Use Left and Right Arrow Keys for Navigate or Change Tabs. And You Can Click On Tabs to Change!</p>
+    </article>
   </section>
+  
 </div>
+
+
 <?php include '../includes/footer.php'; ?>  
 </body>
 </html>

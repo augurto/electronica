@@ -10,9 +10,7 @@
 </head>
 <body>
 
-<!--     <?php include('includes/nav.php');?>
-    <?php include('includes/main.php');?>
-    <?php include('includes/footer.php');?> -->
+
     
 <p>PUTO EL QUE LO LEA</p>
 <SPan>aca ira el login</SPan>

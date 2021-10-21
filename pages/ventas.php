@@ -12,7 +12,7 @@
 <?php include '../includes/nav.php'; ?>  
 <div class="page">
  
-  <section class="section color2" data-letter="v">
+  <section class="section activeSection color2" data-letter="v">
         <article class="sectionInner">
             <h1 class="sectionTitle">About Us</h1>
             <p>Use Left and Right Arrow Keys for Navigate or Change Tabs. And You Can Click On Tabs to Change!</p>

@@ -1,7 +1,7 @@
 :root{
     --blanco: white;
 }
-
+/* 
 nav{
     display: flex;
     justify-content: center;
@@ -20,7 +20,7 @@ nav{
     border: 1px solid rgba(255, 255, 255, 0.932);
     color: violet;
 }
-
+ */
 
 * {
     -webkit-box-sizing: border-box;

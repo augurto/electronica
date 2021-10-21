@@ -16,6 +16,6 @@
     <?php include('./pages/main.php');?>
     <?php include('./pages/footer.php');?>
 
-
+<script src="/pages/nav.js"></script>
 </body>
 </html>

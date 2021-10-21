@@ -9,7 +9,7 @@
 </head>
 <body>
     
-    
+<?php include '../includes/nav.php'; ?>  
 <div class="page">
  
   <section class="section color2" data-letter="v">

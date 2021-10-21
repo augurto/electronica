@@ -248,7 +248,7 @@ footer{
 
 }
 .footer_1 span{
-  color: white;
+  color:black;
 }
 @media (max-width: 800px) {
   .page{

@@ -40,7 +40,7 @@
       <a href="" class="tabInner">
         <div class="thumbnail color6" data-letter="s"></div>
         <!-- <p class="label">Setting</p> -->
-        <a href="../pages/reporte.php" class="label">Settings</a>
+        <a href="../pages/settings.php" class="label">Settings</a>
       </a>
     </li>
   </ul>

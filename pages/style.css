@@ -84,8 +84,7 @@ ul {
   height: 100%;
   text-align: center;
   align-self: center;
-  display: table-cell;
-  vertical-align: middle;
+  padding-top: 20%;
   
 }
 @media (max-width: 850px) {

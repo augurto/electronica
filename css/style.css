@@ -22,7 +22,7 @@
   }
   .nav {
     will-change: transform;
-    position: fixed;
+    position:sticky;
     top: 0;
     left: 0;
     width: 100%;
@@ -83,6 +83,7 @@
   @media (max-width: 720px) {
     .page{
         margin-top: -12px;
+        max-width: 100%;
     }
     .label{
         text-transform:capitalize;

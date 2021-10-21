@@ -1,7 +1,19 @@
+:root{
+    --blanco: white;
+}
+
+
 body{
    background:black; 
 }
 
 .div_nav{
     border: 1px solid rgba(30, 9, 150, 0.932);
+    color: white;
+}
+footer{
+    border: 1px solid rgba(255, 255, 255, 0.932);
+}
+.footer_1{
+    color:var(--blanco);
 }

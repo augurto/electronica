@@ -19,7 +19,10 @@
         </div>
     </nav>
     <main></main>
-    <footer></footer>
+    <?php include('./pages/header.php');?>
+    <?php include('./pages/nav.php');?>
+    <?php include('./pages/main.php');?>
+    <?php include('./pages/footer.php');?>
 
 </body>
 </html>

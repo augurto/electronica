@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <link rel="stylesheet" href="style.css">
-    <title>Ventas</title>
+    <title>Reportes</title>
 </head>
 <body style="background: #00e676;">
     
@@ -14,10 +14,10 @@
 
 <div class="page">
   
-  <section class="section activeSection color4" data-letter="v">
+  <section class="section activeSection color5" data-letter="r">
     <article class="sectionInner">
-      <h1 class="sectionTitle">Ventas</h1>
-      <p>Ventas .....</p>
+      <h1 class="sectionTitle">Reportes</h1>
+      <p>Reportes .....</p>
     </article>
   </section>
   

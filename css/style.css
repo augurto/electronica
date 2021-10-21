@@ -8,14 +8,20 @@ body{
 }
 nav{
     display: flex;
-    justify-content: space-around;
+    
 }
 .div_nav{
     border: 1px solid rgba(30, 9, 150, 0.932);
     color: white;
+    display: flex;
+    justify-content: space-around;
     width: 60%;
     border-radius: 2px;
     
+}
+.div_nav a{
+    border: 1px solid rgba(255, 255, 255, 0.932);
+    color: violet;
 }
 footer{
     border: 1px solid rgba(255, 255, 255, 0.932);
